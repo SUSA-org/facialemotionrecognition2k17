@@ -17,6 +17,8 @@ Script to train either a Max-pooling CNN or ResNet-like architecture depending o
 
 ## Data
 
+This data is not provided due to size limits. The following information for internal docs on understanding the code.
+
 ***train.npz***
 
 Training data provided as "PublicUse" in the (Kaggle Competition data)[https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data]
